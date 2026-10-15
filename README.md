@@ -21,3 +21,6 @@ Le projet démontre empiriquement que lorsque le nombre de pas $N$ de l'arbre bi
 
 Pour consulter les démonstrations théoriques complètes et les équations différentielles :  
 👉 **[Consulter le rapport complet (PDF)](./Modele-Black-Scholes-et-Arbre-Binomial.pdf)**
+## 📊 Aperçu des Résultats
+
+![Distribution des pertes](./Modele-Black-Scholes-et-Arbre-Binomial.png)
