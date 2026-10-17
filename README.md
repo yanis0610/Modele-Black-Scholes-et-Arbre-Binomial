@@ -4,9 +4,9 @@ Ce projet compare la méthode analytique continue de **Black-Scholes (1973)** et
 
 ## 📌 Contenu du Projet
 
-- **`black_scholes_binomial.py`** : Script Python calculant le prix analytique, le Grec Delta ($\Delta$), ainsi que l'algorithme de rétro-propagation pour l'arbre binomial à $N$ pas.
-- **`black_scholes_results.png`** : Graphique illustrant la convergence des prix binomiaux vers la valeur théorique de Black-Scholes.
-- **`report.pdf`** : Rapport académique complet rédigé en $\LaTeX$ contenant les démonstrations mathématiques et calculs de sensibilités.
+- **`Modele-Black-Scholes-et-Arbre-Binomial.py`** : Script Python calculant le prix analytique, le Grec Delta ($\Delta$), ainsi que l'algorithme de rétro-propagation pour l'arbre binomial à $N$ pas.
+- **`Modele-Black-Scholes-et-Arbre-Binomial.png`** : Graphique illustrant la convergence des prix binomiaux vers la valeur théorique de Black-Scholes.
+- **`Modele-Black-Scholes-et-Arbre-Binomial.pdf`** : Rapport académique complet rédigé en $\LaTeX$ contenant les démonstrations mathématiques et calculs de sensibilités.
 
 ## 🛠️ Technologies Utilisées
 
